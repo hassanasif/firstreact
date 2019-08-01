@@ -1,0 +1,121 @@
+.showStuff
+{
+  visibility: visible;
+  border: 5px solid blue;
+  margin: 0px;
+  padding: 0px;
+  display: block;
+}
+#myApp
+{
+    background-image: linear-gradient(to bottom left, rgb(247, 247, 247), rgb(255, 255, 255));
+    opacity: 1;
+    visibility: hidden;
+ 
+}
+#profileDT
+{
+   margin-top: -635px;
+   visibility: hidden;
+   padding-top: 0px;
+
+}
+#updatePass
+{
+    margin-top: -330px;
+    visibility: hidden;
+}
+.container
+{
+    border: 5px solid greenyellow;
+}
+.nav-item {
+   margin: 2px;  
+}
+.nav-link{
+    border-radius: 6px;
+   
+}
+.row{
+
+    margin:1px 0px 1px 0px;
+    
+    text-align: justify;
+}
+#emailOptions{
+    margin-top: -207px;
+    visibility: hidden;
+}
+.alert 
+{
+    background-color: aliceblue;
+    width: 100%;
+    padding-bottom: 0%;
+    height: 50px;
+   margin-bottom: 0px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+   width: 300px;
+    margin: 0px;
+    text-align: center;
+    font-family: arial;
+    opacity: 0.75;
+}
+.card img {
+    opacity: 0.75;
+    width: 120px;
+    height: 120px;
+    margin-left:85px;
+   
+}
+.card h1 {
+    font-size: 2vw;
+  font-weight: bolder;
+}
+.nav
+{
+    width: 300px;
+    margin: 0px;
+    text-align: center;
+    font-family: arial;   
+
+}
+.img-logo {
+    height: 100px; 
+    max-width:auto; 
+   margin: 12px 92px 12px 12px;
+  
+}
+.title{
+    font-style: oblique;
+    font-weight: bolder;
+    color: darkblue;
+    margin: 12px 25px;
+}
+.col-sm-9{
+    border: 5px solid blueviolet;
+    background-color: white;
+    opacity: 0.85;
+    padding:0px;
+}
+.col-sm-3{
+    border: 5px solid blueviolet;
+    background-color: #0f76dd;
+    opacity: 0.75;
+    text-transform: uppercase;
+    padding:0px;
+}
+.testingPage
+{
+  visibility:visible;
+  border-radius: 25px;
+  border: 5px solid blue;
+  margin: 0%;
+  height: 595px;
+  display: block;
+  max-width: auto;
+  background-color: rgb(255, 255, 255);
+  opacity:0.85;
+  
+}

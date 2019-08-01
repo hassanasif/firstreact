@@ -1,0 +1,26 @@
+
+.tile1 
+{
+    border: 5px solid rgb(89, 95, 81); 
+    margin:10px 10px; 
+    padding: 10px; 
+    display: inline-block; 
+    width: 230px;
+    height:180px;
+    background-image: linear-gradient(to bottom left, rgb(23, 170, 207), rgb(255, 255, 255));
+     
+    }
+.tile1 img 
+{
+    width: 95px; 
+    height:95px; 
+    margin-left:50px; 
+    margin-top:20px;
+    
+}
+.tile1 label 
+{
+    font-size: 15px; 
+   text-align: center;
+   margin:15px;
+}
